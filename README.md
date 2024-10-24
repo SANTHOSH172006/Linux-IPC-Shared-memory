@@ -49,7 +49,8 @@ int main()
 }
 ```
 ## OUTPUT
-![output](<Screenshot 2024-09-27 053617.png>)
+![Screenshot 2024-09-27 053617](https://github.com/user-attachments/assets/81458e56-ff30-422e-82ec-0182f1edcaee)
+
 
 # RESULT:
 The program is executed successfully.
